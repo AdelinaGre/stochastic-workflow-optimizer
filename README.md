@@ -5,7 +5,7 @@
 ![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-red)
 
 ## 📌 Executive Summary
-This project implements a **Digital Twin** of a high-volume service center (e.g., Automated Car Wash, EV Charging Network) using **Discrete Event Simulation (DES)**. 
+This project implements a **Digital Twin** of a high-volume service center (Automated Car Wash) using **Discrete Event Simulation (DES)**. 
 
 It provides an interactive dashboard to analyze stochastic bottlenecks, optimize resource allocation, and calculate ROI based on Service Level Agreements (SLA).
 ![KPI Dashboard](opt1.png)
